@@ -6,7 +6,8 @@
 		"namespace": "android_app",
 		"package_name": "link.alfaApp.PoppingBubbles",
 		"sha256_cert_fingerprints": [
-			"B6:F3:EE:A5:99:F0:60:76:77:F5:E7:80:A2:23:AF:B7:EB:E8:79:0D:0D:10:3A:74:0A:D6:09:A9:6A:8A:58:8F"
+        "B6:F3:EE:A5:99:F0:60:76:77:F5:E7:80:A2:23:AF:B7:EB:E8:79:0D:0D:10:3A:74:0A:D6:09:A9:6A:8A:58:8F",
+        "D3:4B:92:A3:D4:81:29:DF:65:2D:D5:17:D8:DC:8E:BE:33:DC:4A:82:13:8A:96:3A:57:59:E9:85:45:E3:A4:43"
 		]
 	}
 }]
